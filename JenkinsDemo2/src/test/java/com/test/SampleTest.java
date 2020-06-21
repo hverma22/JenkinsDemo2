@@ -9,6 +9,7 @@ public class SampleTest extends BaseClass {
 
 		System.out.println("This is testCase1");
 		System.out.println("This is New Comment");
+		System.out.println("This is New Comment1");
 
 	}
 	@Test
